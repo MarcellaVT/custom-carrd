@@ -1,1 +1,1 @@
-Welcome to my personal website written in Chinese! I took most of my design inspiration from minimalist carrd websites.
+Welcome to my personal link website website. This is a fork of [zenyabian's](https://github.com/zenyabian/custom-carrd) code I took and modified from. If you want to see it live it will be on MarcellaVT.com
