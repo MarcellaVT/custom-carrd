@@ -1,1 +1,1 @@
-Welcome to my personal link website website. This is a fork of [zenyabian's](https://github.com/zenyabian/custom-carrd) code I took and modified from. If you want to see it live it will be on MarcellaVT.com
+Welcome to my personal vtuber website. This is a fork of [zenyabian's](https://github.com/zenyabian/custom-carrd) code. If you want to see it live it will be on MarcellaVT.com

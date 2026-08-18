@@ -7,7 +7,7 @@ html, body {
     background-size: cover;
 }
 body {  
-    background-image: url('rainy_background.gif');
+    background-image: url('images/VRChat_2026-07-25_00-06-47.409_1920x1080.png');
     background-position: center;
     background-repeat: no-repeat;
     z-index: -1;
@@ -84,7 +84,7 @@ body {
 .navbar {
     justify-content: center;
     border: 1px dashed black;
-    background-color: #B8CABA;
+    background-color: #a19df0;
     padding: 0;
 }
 
@@ -94,7 +94,7 @@ body {
 }
 
 .top-col{
-    background-color: #B8CABA;
+    background-color: #a19df0;
     border: 1px dashed black;
 }
 
