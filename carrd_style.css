@@ -84,7 +84,7 @@ body {
 .navbar {
     justify-content: center;
     border: 1px dashed black;
-    background-color: #a19df0;
+    background-color: hsl(243, 73%, 78%);
     padding: 0;
 }
 
@@ -94,7 +94,7 @@ body {
 }
 
 .top-col{
-    background-color: #a19df0;
+    background-color: hsl(243, 73%, 78%);
     border: 1px dashed black;
 }
 
